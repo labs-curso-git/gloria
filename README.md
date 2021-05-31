@@ -2,6 +2,6 @@
 
 Prácticas con Git
 
-Juego de tecleo
+> Juego de tecleo
 
 ## Cambio en local
